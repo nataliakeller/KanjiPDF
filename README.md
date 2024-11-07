@@ -1,9 +1,4 @@
 # KanjiPDF
-This Python script is designed to generate images containing individual kanji characters from a CSV file.
-
-
-# Kanji Image Generator
-
 This Python script is designed to generate images containing individual kanji characters from a CSV file. The kanjis are rendered on a predefined template, and each kanji is placed in specific locations on the image. The script processes kanji strings by splitting them into individual kanji characters, ensuring that only kanji are included (ignoring hiragana, katakana, and other characters). The result is a series of images where each kanji is centered and ready for use in flashcards or other study materials.
 
 ## Features:
